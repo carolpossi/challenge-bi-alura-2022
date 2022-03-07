@@ -49,4 +49,5 @@ Tópicos do ```README.md```
   - [ ] Avaliações 
    - [ ] Tooltip
 - [ ] Considerações e Aprendizados
+- [ ] Inserir link para dashboard na web
 
