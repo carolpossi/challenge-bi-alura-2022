@@ -32,7 +32,7 @@ Separei as métricas sugeridas(✔) em grupos, cada um em uma página do Dashboa
 
 🔻 Filtragem: gênero principal, ano de lançamento, faturamento
 
-A tabela de filmes, à direita, possui dica de ferramenta habilitada, apresentada abaixo:
+A tabela de filmes, à direita da página, possui a seguinte dica de ferramenta habilitada:
 
 ![Tooltop Filmes (Página Avaliações)](https://user-images.githubusercontent.com/43648611/157266049-fca3a009-4260-40f4-b87a-ea6257c22199.png)
 
