@@ -67,21 +67,11 @@ Para montar a tabela de filmes na página de [Avaliações](#avaliações), crie
 
 
 ## 🗨️Considerações e Aprendizados
-
-## Progresso README
-Tópicos do ```README.md```
-- [x] Base de dados
-- [x] Tratamento dos dados
-- [x] Tabela de novas medidas e colunas
-- Métricas por página
-  - [x] Gêneros
-  - [x] Estrelas
-  - [x] Avaliações 
-- Visuais e imagens por página
-  - [x] Gêneros
-  - [x] Estrelas
-  - [x] Avaliações 
-   - [x] Tooltip
-- [ ] Considerações e Aprendizados
-- [x] Inserir link para dashboard na web
-
+- Minha intenção foi de confeccionar um *dashboard* interativo, para que o usuário manipule os filtros e navegue pelas tabelas e visualizações a fim de tirar suas próprias conclusões;
+- Escolhi uma paleta de cores terrosas e quentes que me agradou bastante, porém, sinto que limitei muito minhas opções, e tive dificuldades de manter a paleta em visualizações classificadas por múltiplas categorias, como gênero;
+- Tive receio de poluir as páginas com gráficos e outras visualizações em excesso, e creio que este posicionamento não foi vantajoso. Poderia ter contornado essa preocupação utilizando mais filtros e indicadores, dessa forma poderia apresentar mais informações sem o excesso de elementos visuais;
+- Na página `Estrelas`, o resumo de estrelas (conjunto de formas e visualizações à esquerda da página) estava originalmente contido num *tooltip* (dica de ferramenta), porém dessa forma,  as informações que considero interessantes só seriam reveladas pela interação com o gráfico, além da inevitável concentração de informação num espaço tão pequeno como o *tooltip*;
+    - Ao dispor as visualizações na página, estes problemas são resolvidos, mas uma outra desvantagem surge: enquanto o filtro da página não for exatamente uma única estrela selecionada a partir dos gráficos, a informação apresentada no resumo se torna inconsistente;
+- Durante o desenvolvimento, minha preocupação com o visual teve um grande peso, e isso pode ter prejudicado a relação entre os componentes do relatório. Tenho a sensação de que poderia ter realçado os dados interessantes para contribuir com o *storytelling*, a história contada através do relatório;
+    - Por mais que gráficos, as visualizações que mais utilizei, apresentem mais informações, elementos como cartões trazem o destaque e realce apropriado;
+- Este projeto, além de ser meu primeiro *dashboard*, foi iniciado poucos dias após minha primeira interação com o Power BI.  Portanto, por mais que sinta que o resultado não é excelente, considerando minha inexperiência, gostei do que pude apresentar, o projeto contribuiu muito para meu aprendizado e estou satisfeita.
